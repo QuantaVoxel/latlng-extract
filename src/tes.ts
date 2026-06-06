@@ -1,5 +1,5 @@
 import { extract } from "./index.js";
-import type { ExtractError } from "./type.d.ts";
+import type { ExtractError } from "./type.ts";
 
 async function run() {
   const urls = [

@@ -1,5 +1,5 @@
 import axios from "axios";
-import type { ExtractResult, ExtractOptions, ExtractError } from "./type.d.ts";
+import type { ExtractResult, ExtractOptions, ExtractError } from "./type.ts";
 
 const COORD_PATTERNS: RegExp[] = [
   /@(-?\d+\.\d+),(-?\d+\.\d+)/, // @lat,lng
