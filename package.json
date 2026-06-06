@@ -15,16 +15,16 @@
     "geolocation",
     "extract"
   ],
-  "homepage": "https://github.com/yourusername/latlng-extract#readme",
+  "homepage": "https://github.com/QuantaVoxel/latlng-extract#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/latlng-extract/issues"
+    "url": "https://github.com/QuantaVoxel/latlng-extract/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/latlng-extract.git"
+    "url": "git+https://github.com/QuantaVoxel/latlng-extract.git"
   },
   "license": "MIT",
-  "author": "Your Name <your@email.com>",
+  "author": "Quantavoxel <developer@quantavoxel.digital>",
   "type": "module",
   "exports": {
     ".": {
