@@ -3,8 +3,6 @@
 Extract latitude and longitude coordinates from Google Maps short links and full URLs.
 
 [![npm version](https://img.shields.io/npm/v/@quantavoxel/latlng-extract)](https://www.npmjs.com/package/@quantavoxel/latlng-extract)
-[![license](https://img.shields.io/npm/l/@quantavoxel/latlng-extract)](./LICENSE)
-[![node](https://img.shields.io/node/v/@quantavoxel/latlng-extract)](https://nodejs.org)
 
 ```ts
 import { extract } from "@quantavoxel/latlng-extract";
